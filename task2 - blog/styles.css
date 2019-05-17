@@ -14,15 +14,10 @@
     float: left;
 }
 
-.header
-{
-    padding-bottom: 15px;
-}
-
 .content
 {
-    padding-top: 15px;
-    padding-bottom: 15px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .citation
@@ -36,5 +31,4 @@
 .h2
 {
     font-size: 20px;
-    padding-top: 20px;
 }
