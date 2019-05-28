@@ -28,13 +28,8 @@ a {
     padding: 20px;
 }
 
-.input {
+.margin {
     margin-top: 20px;
-}
-
-.input:focus {
-    border-color: darkgray;
-    color: black;
 }
 
 .textarea {
