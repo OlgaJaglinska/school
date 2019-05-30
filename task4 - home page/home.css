@@ -29,10 +29,10 @@ a {
   height: 450px;
 }
 
-.showcase > .h1{
+.h1{
   font-size: 30px;
   background-color: black;
-  width: 40%;
+  width: 400px;
   height: 50px; 
   position: absolute;
   top: 40%;
@@ -42,16 +42,14 @@ a {
 }
 
 .tile{
-  width: 25%;
+  width: 300px;
   float: left;
   text-align: center;
-  margin: 4%;
-  
+  margin: 43px; 
 }
 
-.tile > .transport{
+.transport{
   font-size: 40px;
-  margin-top: 20px;
   margin-bottom: 20px;
 }
 
