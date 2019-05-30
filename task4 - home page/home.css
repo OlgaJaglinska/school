@@ -22,7 +22,7 @@ a {
 }
 
 .showcase{
-  background:url('dog.jpg') no-repeat center;
+  background: url('dog.jpg') no-repeat center;
   background-size: cover;
   text-align: center;
   color: #ffffff;
@@ -32,12 +32,13 @@ a {
 .showcase > .h1{
   font-size: 30px;
   background-color: black;
-  width: 50%;
+  width: 40%;
   height: 50px; 
   position: absolute;
-  top: 50%;
+  top: 40%;
   left: 50%;
   transform: translate(-50%, -50%);
+  padding-top: 10px; 
 }
 
 .tile{
@@ -45,6 +46,7 @@ a {
   float: left;
   text-align: center;
   margin: 4%;
+  
 }
 
 .tile > .transport{
