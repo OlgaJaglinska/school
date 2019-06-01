@@ -1,25 +1,4 @@
-nav > ul {
-  list-style: none;
-  padding-left: 0;
-  text-align: center;
-}
-
-nav > ul > li {
-  display: inline-block;
-  padding: 3px 5px;
-  border: 1px solid #fcc600;
-  background-color: #f1f1f1;
-  transition: background-color .3s;
-}
-
-nav > ul > li:hover { 
-  background-color: #a0a0a0;
-}
-
-a {
-  text-decoration: none;
-  color: inherit;
-}
+@import url("c:/Users/olaja/Desktop/Programowanie/task1 - menu/menu.css");
 
 .showcase{
   background: url('dog.jpg') no-repeat center;
