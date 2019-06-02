@@ -2,36 +2,26 @@
 @import url("C:/Users/olaja/Desktop/Programowanie/task5 - footer/footer.css");
 
 * {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
-
-.container
-{
-    background-color: #c2bcbc;
+.container {
+  background-color: #c2bcbc;
 }
-
-.article
-{
-    width: 50%;
-    padding: 10px;
-    float: left;
+.article {
+  width: 50%;
+  padding: 10px;
+  float: left;
 }
-
-.content
-{
-    margin-top: 20px;
-    margin-bottom: 20px;
+.content {
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
-
-.citation
-{
-    background-color: #1d1b1b;
-    color: #ffffff;
-    padding: 15px;
-    border: 5px dashed #ee1111;
+.citation {
+  background-color: #1d1b1b;
+  color: #ffffff;
+  padding: 15px;
+  border: 5px dashed #ee1111;
 }
-
-.h2
-{
-    font-size: 20px;
+.h2 {
+  font-size: 20px;
 }
