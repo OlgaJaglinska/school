@@ -7,6 +7,7 @@
   text-align: center;
   color: #ffffff;
   height: 450px;
+  position: relative;
 }
 .motto {
   font-size: 30px;
@@ -20,10 +21,17 @@
   padding-top: 10px; 
 }
 .tile {
-  width: 300px;
+  width: 25%;
   float: left;
   text-align: center;
-  margin: 43px; 
+  margin: 4%; 
+}
+.paragraph{
+  margin-top: 35px;
+}
+.point{
+  border: 5px solid red;
+  position: absolute;
 }
 .transport{
   font-size: 40px;
