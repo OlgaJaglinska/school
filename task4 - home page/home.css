@@ -1,5 +1,5 @@
-@import url("c:/Users/olaja/Desktop/Programowanie/task1 - menu/menu.css");
-@import url("C:/Users/olaja/Desktop/Programowanie/task5 - footer/footer.css");
+@import url("../task1 - menu/menu.css");
+@import url("../task5 - footer/footer.css");
 
 .showcase {
   background: url('dog.jpg') no-repeat center;
