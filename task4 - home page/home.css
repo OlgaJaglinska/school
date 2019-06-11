@@ -1,15 +1,15 @@
-@import url("c:/Users/olaja/Desktop/Programowanie/task1 - menu/menu.css");
-@import url("C:/Users/olaja/Desktop/Programowanie/task5 - footer/footer.css");
+@import url("../task1 - menu/menu.css");
+@import url("../task5 - footer/footer.css");
 
-.showcase{
+.showcase {
   background: url('dog.jpg') no-repeat center;
   background-size: cover;
   text-align: center;
   color: #ffffff;
   height: 450px;
+  position: relative;
 }
-
-.motto{
+.motto {
   font-size: 30px;
   background-color: black;
   width: 400px;
@@ -20,14 +20,25 @@
   transform: translate(-50%, -50%);
   padding-top: 10px; 
 }
-
-.tile{
-  width: 300px;
+.tile {
+  width: 25%;
   float: left;
   text-align: center;
-  margin: 43px; 
+  margin: 4%; 
 }
-
+.paragraph{
+  margin-top: 35px;
+}
+.paragraph::after{
+  content: " ";
+  border: 5px solid blue;
+  float: right;
+  margin-top: 30px;
+}
+.point{
+  border: 5px solid red;
+  position: absolute;
+}
 .transport{
   font-size: 40px;
   margin-bottom: 20px;
