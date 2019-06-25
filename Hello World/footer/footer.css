@@ -1,0 +1,59 @@
+footer{
+  background-color: #4e4e4e;
+  color: #ffffff;
+  text-align: center;
+  position: fixed;
+}
+
+.maxim{
+  width: 30%;
+  float: left;
+}
+
+.motto{
+  background-image: url("mountain.jpg");
+  background-position: center;
+  background-size: cover;
+  color: #4e4e4e;
+}
+
+.footer-list{
+  width: 30%;
+  float: left;
+}
+
+.footer-list{
+  font-size: 20px;
+
+}
+
+.media{
+  width: 40%;
+  float:left
+
+}
+
+.newsletter{
+  size: 30% 70%;
+}
+
+.newsletter-btn{
+    background-color: #ca9911;
+    size: 40% 50%;
+    border: none;
+}
+
+.social-icon{
+  font-size: 100px;
+
+}
+/* .fa-facebook-square{
+  color:#3b5998;
+} */
+
+.foot{
+  clear: both;
+  height: 10%;
+  border: solid 2px #636363;
+
+}
