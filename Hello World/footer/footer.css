@@ -3,57 +3,55 @@ footer{
   color: #ffffff;
   text-align: center;
   position: fixed;
+  font-family: 'Lato', sans-serif;
 }
 
 .maxim{
-  width: 30%;
+  width: 33%;
   float: left;
 }
 
 .motto{
-  background-image: url("mountain.jpg");
   background-position: center;
   background-size: cover;
-  color: #4e4e4e;
+  color: #ada7a7;
+  padding-left: 20px;
 }
 
 .footer-list{
-  width: 30%;
+  width: 33%;
   float: left;
-}
-
-.footer-list{
   font-size: 20px;
-
+  list-style-position: inside;
 }
 
 .media{
-  width: 40%;
+  width: 33%;
   float:left
-
 }
 
 .newsletter{
-  size: 30% 70%;
+  font-size: 20px;
+  padding-right: 20px;
 }
 
 .newsletter-btn{
     background-color: #ca9911;
-    size: 40% 50%;
+    font-size: 20px;
     border: none;
 }
 
-.social-icon{
-  font-size: 100px;
+.social-icon{ 
+  
 
 }
-/* .fa-facebook-square{
-  color:#3b5998;
-} */
+.social-icon-style{
+  margin: 20px;
+  font-size: 30px;
+}
 
 .foot{
   clear: both;
   height: 10%;
   border: solid 2px #636363;
-
 }
