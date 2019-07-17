@@ -23,6 +23,11 @@ footer{
   float: left;
   font-size: 20px;
   list-style-position: inside;
+  
+}
+.footer-list-link{
+  text-decoration: none;
+  color: #ffffff;
 }
 
 .media{
