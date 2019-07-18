@@ -1,62 +1,62 @@
 footer{
-  background-color: #4e4e4e;
+  background-color: #686868;
   color: #ffffff;
   text-align: center;
-  position: fixed;
   font-family: 'Lato', sans-serif;
+  font-size: 15px;
 }
-
 .maxim{
   width: 33%;
   float: left;
 }
-
 .motto{
-  background-position: center;
-  background-size: cover;
-  color: #ada7a7;
+  color: #d6d3d3;
   padding-left: 20px;
 }
-
 .footer-list{
   width: 33%;
   float: left;
-  font-size: 20px;
   list-style-position: inside;
-  
 }
 .footer-list-link{
   text-decoration: none;
   color: #ffffff;
 }
-
+.footer-list-link:hover{
+  color: #cecece;
+}
 .media{
   width: 33%;
   float:left
 }
-
-.newsletter{
-  font-size: 20px;
-  padding-right: 20px;
+.input-newsletter{
+  margin-bottom: 15px;
+  font-size: 120%;
 }
-
 .newsletter-btn{
-    background-color: #ca9911;
-    font-size: 20px;
-    border: none;
+  background-color: #dda91a;
+  border: none;
 }
-
-.social-icon{ 
-  
-
+.newsletter-btn:hover{
+  background-color: #ffaf19;
+  cursor: pointer;
+}
+.social-icon{
+  width: 70%;
+  display: inline-block;
+  border-top: solid #adacac;
 }
 .social-icon-style{
-  margin: 20px;
-  font-size: 30px;
+  margin: 15px;
+  font-size: 20px;
+  color: #d6d3d3;
 }
-
+.social-icon-style:hover{
+  color: #a0a0a0;
+}
 .foot{
   clear: both;
   height: 10%;
-  border: solid 2px #636363;
+  border-top: solid #adacac;
+  color: #adacac;
 }
