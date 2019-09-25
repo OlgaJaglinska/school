@@ -1,0 +1,62 @@
+footer{
+  background-color: #686868;
+  color: #ffffff;
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  font-size: 15px;
+}
+.maxim{
+  width: 33%;
+  float: left;
+}
+.motto{
+  color: #d6d3d3;
+  padding-left: 20px;
+}
+.footer-list{
+  width: 33%;
+  float: left;
+  list-style-position: inside;
+}
+.footer-list-link{
+  text-decoration: none;
+  color: #ffffff;
+}
+.footer-list-link:hover{
+  color: #cecece;
+}
+.media{
+  width: 33%;
+  float:left
+}
+.input-newsletter{
+  margin-bottom: 15px;
+  font-size: 120%;
+}
+.newsletter-btn{
+  background-color: #dda91a;
+  border: none;
+}
+.newsletter-btn:hover{
+  background-color: #ffaf19;
+  cursor: pointer;
+}
+.social-icon{
+  width: 70%;
+  display: inline-block;
+  border-top: solid #adacac;
+}
+.social-icon-style{
+  margin: 15px;
+  font-size: 20px;
+  color: #d6d3d3;
+}
+.social-icon-style:hover{
+  color: #a0a0a0;
+}
+.foot{
+  clear: both;
+  height: 10%;
+  border-top: solid #adacac;
+  color: #adacac;
+}
